@@ -1,4 +1,4 @@
-package eu.janmuller.android.simplecropimage.example;
+package com.paradox.vision.simplecropimage.example;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -18,7 +18,7 @@ import android.provider.MediaStore;
 import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
-import eu.janmuller.android.simplecropimage.CropImage;
+import com.paradox.vision.simplecropimage.CropImage;
 
 public class MainActivity extends Activity {
 

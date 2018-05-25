@@ -1,4 +1,4 @@
-package eu.janmuller.android.simplecropimage;
+package com.paradox.vision.simplecropimage;
 /*
  * Copyright (C) 2009 The Android Open Source Project
  *

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package eu.janmuller.android.simplecropimage;
+package com.paradox.vision.simplecropimage;
 
 
 import android.graphics.*;

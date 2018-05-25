@@ -4,7 +4,7 @@
  * gradle plugin from the resource data it found. It
  * should not be modified by hand.
  */
-package eu.janmuller.android.simplecropimage;
+package com.paradox.vision.simplecropimage;
 
 public final class R {
     public static final class drawable {

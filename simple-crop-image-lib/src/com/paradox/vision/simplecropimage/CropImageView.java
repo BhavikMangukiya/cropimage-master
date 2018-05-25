@@ -1,4 +1,4 @@
-package eu.janmuller.android.simplecropimage;
+package com.paradox.vision.simplecropimage;
 
 import android.content.Context;
 import android.graphics.Canvas;

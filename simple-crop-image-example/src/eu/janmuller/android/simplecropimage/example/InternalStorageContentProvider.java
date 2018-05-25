@@ -1,4 +1,4 @@
-package eu.janmuller.android.simplecropimage.example;
+package com.paradox.vision.simplecropimage.example;
 
 import java.io.File;
 import java.io.FileNotFoundException;

@@ -21,11 +21,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="eu.janmuller.android.simplecropimage.CropImage" />
+        <activity android:name="com.paradox.vision.simplecropimage.CropImage" />
 
         <provider
             android:name="InternalStorageContentProvider"
-            android:authorities="eu.janmuller.android.simplecropimage.example"
+            android:authorities="com.paradox.vision.simplecropimage.example"
             android:exported="true" />
     </application>
 
